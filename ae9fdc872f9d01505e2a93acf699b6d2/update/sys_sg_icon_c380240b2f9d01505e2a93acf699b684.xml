@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Conference Room</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-31 09:05:32</sys_created_on>
+        <sys_id>c380240b2f9d01505e2a93acf699b684</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Conference Room</sys_name>
+        <sys_package display_value="Conference Room" source="x_164863_conferenc">ae9fdc872f9d01505e2a93acf699b6d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room">ae9fdc872f9d01505e2a93acf699b6d2</sys_scope>
+        <sys_update_name>sys_sg_icon_c380240b2f9d01505e2a93acf699b684</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-31 09:05:32</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

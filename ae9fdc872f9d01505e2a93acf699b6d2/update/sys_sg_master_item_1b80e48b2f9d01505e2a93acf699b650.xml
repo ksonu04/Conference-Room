@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <datasource_table>x_164863_conferenc_conference_room</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Conference Room Form Screen">9b80e48b2f9d01505e2a93acf699b64d</embedded_screen>
+        <item_view/>
+        <name>Conference Room master_item</name>
+        <screen/>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-31 09:05:33</sys_created_on>
+        <sys_id>1b80e48b2f9d01505e2a93acf699b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conference Room master_item</sys_name>
+        <sys_package display_value="Conference Room" source="x_164863_conferenc">ae9fdc872f9d01505e2a93acf699b6d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room">ae9fdc872f9d01505e2a93acf699b6d2</sys_scope>
+        <sys_update_name>sys_sg_master_item_1b80e48b2f9d01505e2a93acf699b650</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-31 09:05:33</sys_updated_on>
+        <table>x_164863_conferenc_conference_room</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Conference Room List Screen View Config">4b80240b2f9d01505e2a93acf699b686</view_config>
+    </sys_sg_master_item>
+</record_update>

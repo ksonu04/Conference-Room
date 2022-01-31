@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Conference Room" max_length="40" name="x_164863_conferenc_conference_room" type="collection">
+        <element label="Available" max_length="40" name="available" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Building" max_length="40" name="building" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Floor" max_length="40" name="floor" type="string"/>
+        <element label="In maintenance" max_length="40" name="in_maintenance" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>name-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-31 09:05:33</sys_created_on>
+        <sys_id>5380e48b2f9d01505e2a93acf699b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name-FieldLabel</sys_name>
+        <sys_package display_value="Conference Room" source="x_164863_conferenc">ae9fdc872f9d01505e2a93acf699b6d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room">ae9fdc872f9d01505e2a93acf699b6d2</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_5380e48b2f9d01505e2a93acf699b646</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-31 09:05:33</sys_updated_on>
+        <view_config display_value="Conference Room Detail Screen View Config">9b80e48b2f9d01505e2a93acf699b636</view_config>
+        <view_template_slot display_value="text_06">cb878d7041275010f877183fc9b8be59</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
